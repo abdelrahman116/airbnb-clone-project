@@ -34,7 +34,7 @@ Color Styles:
 -Text: #222222
 -Secondary Text: #717171
 
-#Project Roles and Responsibilities
+# Project Roles and Responsibilities
 Role	Responsibilities
 Project Manager	Oversees timeline, coordinates team, manages deliverables
 Frontend Developers	Implements UI components, ensures responsive design
