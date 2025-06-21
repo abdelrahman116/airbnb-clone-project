@@ -14,7 +14,7 @@ Frontend: HTML, CSS, JavaScript (React or similar framework)
 Version Control: Git and GitHub
 Design Tools: Figma for UI/UX design
 
-# "UI/UX Design Planning"
+# UI/UX Design Planning.
 Design Goals
 Create intuitive booking flow
 Maintain visual consistency
