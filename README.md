@@ -14,7 +14,7 @@ Frontend: HTML, CSS, JavaScript (React or similar framework)
 Version Control: Git and GitHub
 Design Tools: Figma for UI/UX design
 
-# UI/UX Design Planning
+## UI/UX Design Planning
 Design Goals
 Create intuitive booking flow
 Maintain visual consistency
@@ -34,7 +34,7 @@ Color Styles:
 -Text: #222222
 -Secondary Text: #717171
 
-# Project Roles and Responsibilities
+## Project Roles and Responsibilities
 Role	Responsibilities
 Project Manager	Oversees timeline, coordinates team, manages deliverables
 Frontend Developers	Implements UI components, ensures responsive design
@@ -45,7 +45,7 @@ DevOps Engineers	Manages deployment, CI/CD pipeline, server infrastructure
 Product Owner	Defines requirements, prioritizes features, represents stakeholders
 Scrum Master	Facilitates agile processes, removes blockers, organizes meetings
 
-# UI Component Patterns
+## UI Component Patterns
 Planned Components
 1-Navbar
   Logo
